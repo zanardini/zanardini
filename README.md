@@ -4,7 +4,7 @@ I'm a _.net_ Developer and I'm passionate about backend technologies and everyth
 
 ![](https://raw.githubusercontent.com/zanardini/zanardini/master/I.png)
 
-I currently work into the core team of Able Tech, the software house that develop ARXivar and IX Services.
+I currently work into the core team of Able Tech, the software house that develop ARXivar suite.
 
 # Find me around the web 🌎
 
